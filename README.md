@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Blackbox1221
+- 👀 I’m interested in making AI and simple games
+- 🌱 I’m currently learning Python code and c#
+- 📫 you can reach me by email at Blackbox.27@outlook.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I've only been coding for about a year 
